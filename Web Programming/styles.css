@@ -1,0 +1,239 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    margin: 0px;
+}
+
+.main-div{
+    text-align: left;
+    margin-left: 20px;
+    padding: 30px;
+    font-size: 18px;
+    
+}
+.main-div a {
+    margin: 0px 5px;
+    color: #BE7545;
+    text-decoration: none;
+    padding: 14px;
+}
+
+
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+img {
+    max-width: 100%
+}
+.container .column11 img{
+    flex-basis: 70%;
+    order: 2;
+    margin-top: 30%;
+    width: 80%;
+    
+}
+.column11{
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 20px;
+    vertical-align: top;
+    margin-left: 80px;
+}
+.container .column11 p{
+    color: #FE6603;
+    font-size: 50px;
+    padding-left: 0px;
+    margin-left: -9%;
+}
+.container .column11 hr{
+    margin-left: -11px;
+    width: 5cm;
+    background-color: orange;
+}
+.container .column11 h1{
+    color: #FE6603;
+    font-size: 50px;
+    margin-left: -10%;
+}
+.container .column11 h2{
+    color: #533321;
+    font-size: 20px;
+    margin-left: -9%;
+    font-weight: normal;
+
+}
+input[type="submit"]{
+    background: #FE6603;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px;
+    margin-left: -9%;
+    border: none;
+
+}
+
+
+
+
+#first-section  {
+    background-color: #FEF5EE;
+    width: 100%;
+    height: 50%;
+    margin-top: 10%;
+    box-sizing: border-box;
+  }
+#first-section h1 {
+    text-align: center;
+    font-size: 40px;
+    color:  #FE6603;
+    padding: 4%;
+}
+#first-section p {
+    text-align: center;
+    font-size: 20px;
+    color: #BE7545;
+}
+#first-section img{
+    background-color: #FDFFFB;
+    padding: 70px;
+    box-sizing: border-box;
+    width: 250px;
+    height: 300px;
+    
+}
+.column{
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 10px;
+    padding-bottom: 3%;
+    vertical-align: top;
+    margin-left: 65px;
+}
+.column p{
+    position: absolute;
+    margin-left: 80px;
+    margin-top: -55px;
+    padding: 0px;
+}
+
+#second-section  {
+    display: block;
+    background-color: #FEF5EE;
+    text-align: center;
+    width: 80%;
+    height: 70%;
+    padding: 5%;
+    margin-top: 20%;
+    margin-left: 5%;
+    margin-right: auto;
+    border-radius:20px ;
+}
+#second-section h2{
+    color: #533321;
+    font-size: 30px;
+
+}
+input[type="text"]{
+    text-align: center;
+    border-radius: 50px;
+    width: 65%;
+    height: 7%;
+    padding: 2%;
+    border: none;
+}
+input[type="text2"]{
+    text-align: center;
+    border-radius: 50px;
+    width: 65%;
+    height: 3%;
+    padding: 2%;
+    margin-top: 3%;
+    border: none;
+}
+input[type="button"]{
+    text-align: center;
+    margin-top: 4%;
+    border-radius: 5px;
+    width: 65%;
+    height: 3%;
+    background: #FE6603;
+    color: white;
+    padding: 2%;
+    border: none;
+}
+#main-footer {
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    margin-top: 8%;
+    width: 100%;
+    background-color: #FE6603;
+    color: white;
+    text-align: center;
+    padding: 4%;
+    box-sizing: border-box;
+}
+
+
+
+.last-section {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+img {
+    max-width: 100%
+}
+.last-section .column1 img{
+    margin-left: -15%;
+    margin-top: 30%;
+    float: left;
+    width: 100%;
+    flex-basis: 100%
+    
+}
+.column1{
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 20px;
+    vertical-align: top;
+    margin-left: 80px;
+}
+.last-section .column1 h1{
+    margin-top: 80%;
+    color: #FE6603;
+    font-size: 30px;
+    margin-left: 25%;
+    text-align: right;
+}
+.last-section .column1 h2{
+    margin-top: 30%;
+    color: orange;
+    font-size: 30px;
+    margin-left: 20%;
+    text-align: right;
+}
+.last-section .column1 h3{
+    margin-top: 20%;
+    color: #C1C1C1;
+    font-size: 30px;
+    margin-left: -4%;
+    text-align: right;
+
+}
+.last-section .column1 h4{
+    margin-top: 20%;
+    color: #C1C1C1;
+    font-size: 40px;
+    margin-left: 50%;
+    text-align: right;
+}
+
+
+
