@@ -1,0 +1,63 @@
+
+@media screen and (max-width: 400px){
+    .last-section .column1 h1{
+          text-align: center;
+          margin-left: -30%;
+          margin-top: 10%;
+          font-size: 50px;
+          }
+        .last-section .column1 h2{
+            text-align: center;
+            margin-left: -30%;
+          }
+          .last-section .column1 h3{
+            text-align: center;
+            margin-left: -30%;
+          }
+          .last-section .column1 h4{
+            text-align: center;
+            margin-left: -30%;
+         }
+         .container .column11 p{
+            text-align: center;
+            margin-left: -30%;
+        }
+        .container .column11 hr{
+            margin-left: 2px;
+            text-align: center;
+        }
+        .container .column11 h1{
+            text-align: center;
+            margin-left: -30%;
+        }
+        .container .column11 h2{
+            text-align: center;
+            margin-left: -25%;
+        
+        
+        }
+        input[type="submit"]{
+            background: #FE6603;
+            color: white;
+            border-radius: 10px;
+            margin-top: 20px;
+            margin-left: 20px;
+            padding: 10px;
+            margin-left: -9%;
+            border: none;
+            text-align: center;
+            margin-left: 16%;
+        
+        }
+        .container .column11 img{
+            margin-left: -12%;
+            
+        }
+        #first-section h1 {
+            text-align: center;
+            font-size: 40px;
+            color:  #FE6603;
+            padding: 10%;
+        }
+        
+}
